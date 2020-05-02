@@ -3,7 +3,7 @@ layout: misc
 title: About
 ---
 
-![image](https://avatars0.githubusercontent.com/u/34111347?s=460&u=85d5b785888be65feced6a82c04086bfb5f21009&v=4){: style="float: left; width: 200px; padding-right: 20px;"}
+![image](https://media-exp1.licdn.com/dms/image/C5603AQHVV1iNjBxznQ/profile-displayphoto-shrink_200_200/0?e=1593648000&v=beta&t=nVOUpyhExEu6yIJQipkqaHYrIvfhEKU5FvyxNXCmwQc){: style="float: left; width: 200px; padding-right: 20px;"}
 
 
-I've been fascinated by technology ever since I can remember and, due to that, I started to take a deeper look into programming and every since I tried it I fell in love with it. That passion led me to to the Electrical and Computer Engineering degree where I learned diverse algorithms and data structures. That love also led me to start learning languages, frameworks and concepts on my own and started developing my own projects which you can check [here](https://github.com/Joao-Maria-Janeiro/). With the dream of working at Google for a long time I applied for an internship and got accepted in NY in my sophomore year.
+Born in 1999, I'm a Mechanical Enginnering student at ISEL in Lisbon. Since very young I've been fond of machines and thats why I choose them as a career. I participated in the building process of the ADESS-03 EVO 2020 LMP3 prototype during a summer internship, my first step in the world of racing . My love for Motorsport is what drives me and my goal is to design and build the fastest cars possible, finding that balance between areodynamics and raw power that give them the edge over all others!
