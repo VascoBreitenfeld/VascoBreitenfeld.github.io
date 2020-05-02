@@ -14,9 +14,9 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "João Maria Janeiro"
+title:		           "Vasco Breitenfeld"
 description:	       "Personal Website"
-author:              "Paul Le"
+author:              "Vasco Breitenfeld"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
